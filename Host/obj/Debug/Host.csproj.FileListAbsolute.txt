@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\TwoWayBindingChat\Host\obj\Debug\Host.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\TwoWayBindingChat\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TwoWayBindingChat\Host\bin\Debug\Host.exe.config
+C:\Users\Asus\source\repos\TwoWayBindingChat\Host\bin\Debug\Host.exe
+C:\Users\Asus\source\repos\TwoWayBindingChat\Host\bin\Debug\Host.pdb
+C:\Users\Asus\source\repos\TwoWayBindingChat\Host\obj\Debug\Host.exe
+C:\Users\Asus\source\repos\TwoWayBindingChat\Host\obj\Debug\Host.pdb
+C:\Users\Asus\Downloads\Connect4 - copia\Host\bin\Debug\Host.exe.config
+C:\Users\Asus\Downloads\Connect4 - copia\Host\bin\Debug\Host.exe
+C:\Users\Asus\Downloads\Connect4 - copia\Host\bin\Debug\Host.pdb
+C:\Users\Asus\Downloads\Connect4 - copia\Host\obj\Debug\Host.csprojAssemblyReference.cache
+C:\Users\Asus\Downloads\Connect4 - copia\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\Connect4 - copia\Host\obj\Debug\Host.exe
+C:\Users\Asus\Downloads\Connect4 - copia\Host\obj\Debug\Host.pdb

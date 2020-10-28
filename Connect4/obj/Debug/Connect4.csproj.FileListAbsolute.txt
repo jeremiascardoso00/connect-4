@@ -1,0 +1,67 @@
+D:\diego\repos\Connect4\Connect4\bin\Debug\Connect4.exe.config
+D:\diego\repos\Connect4\Connect4\bin\Debug\Connect4.exe
+D:\diego\repos\Connect4\Connect4\bin\Debug\Connect4.pdb
+D:\diego\repos\Connect4\Connect4\obj\Debug\Connect4.csprojAssemblyReference.cache
+D:\diego\repos\Connect4\Connect4\obj\Debug\Connect4.Menu.resources
+D:\diego\repos\Connect4\Connect4\obj\Debug\Connect4.Properties.Resources.resources
+D:\diego\repos\Connect4\Connect4\obj\Debug\Connect4.csproj.GenerateResource.cache
+D:\diego\repos\Connect4\Connect4\obj\Debug\Connect4.csproj.CoreCompileInputs.cache
+D:\diego\repos\Connect4\Connect4\obj\Debug\Connect4.exe
+D:\diego\repos\Connect4\Connect4\obj\Debug\Connect4.pdb
+D:\diego\repos\Connect4\Connect4\obj\Debug\Connect4.Game1v1.resources
+C:\Users\Asus\Downloads\Connect4\Connect4\bin\Debug\Connect4.exe.config
+C:\Users\Asus\Downloads\Connect4\Connect4\bin\Debug\Connect4.exe
+C:\Users\Asus\Downloads\Connect4\Connect4\bin\Debug\Connect4.pdb
+C:\Users\Asus\Downloads\Connect4\Connect4\obj\Debug\Connect4.csprojAssemblyReference.cache
+C:\Users\Asus\Downloads\Connect4\Connect4\obj\Debug\Connect4.Game1v1.resources
+C:\Users\Asus\Downloads\Connect4\Connect4\obj\Debug\Connect4.HostYJoin.resources
+C:\Users\Asus\Downloads\Connect4\Connect4\obj\Debug\Connect4.Menu.resources
+C:\Users\Asus\Downloads\Connect4\Connect4\obj\Debug\Connect4.Properties.Resources.resources
+C:\Users\Asus\Downloads\Connect4\Connect4\obj\Debug\Connect4.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\Connect4\Connect4\obj\Debug\Connect4.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\Connect4\Connect4\obj\Debug\Connect4.exe
+C:\Users\Asus\Downloads\Connect4\Connect4\obj\Debug\Connect4.pdb
+C:\Users\Asus\Downloads\Connect4\Connect4\obj\Debug\Connect4.GameOnlineJugador1.resources
+C:\Users\Asus\Downloads\Connect4 - copia\Connect4\bin\Debug\Connect4.exe.config
+C:\Users\Asus\Downloads\Connect4 - copia\Connect4\bin\Debug\Connect4.exe
+C:\Users\Asus\Downloads\Connect4 - copia\Connect4\bin\Debug\Connect4.pdb
+C:\Users\Asus\Downloads\Connect4 - copia\Connect4\obj\Debug\Connect4.csprojAssemblyReference.cache
+C:\Users\Asus\Downloads\Connect4 - copia\Connect4\obj\Debug\Connect4.Game1v1.resources
+C:\Users\Asus\Downloads\Connect4 - copia\Connect4\obj\Debug\Connect4.HostYJoin.resources
+C:\Users\Asus\Downloads\Connect4 - copia\Connect4\obj\Debug\Connect4.Menu.resources
+C:\Users\Asus\Downloads\Connect4 - copia\Connect4\obj\Debug\Connect4.Properties.Resources.resources
+C:\Users\Asus\Downloads\Connect4 - copia\Connect4\obj\Debug\Connect4.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\Connect4 - copia\Connect4\obj\Debug\Connect4.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\Connect4 - copia\Connect4\obj\Debug\Connect4.exe
+C:\Users\Asus\Downloads\Connect4 - copia\Connect4\obj\Debug\Connect4.pdb
+C:\Users\Asus\Downloads\Connect4 - copia\Connect4\obj\Debug\Connect4.Game1vIA.resources
+C:\Users\Asus\Desktop\Connect4 - copia 2\Connect4\bin\Debug\Connect4.exe.config
+C:\Users\Asus\Desktop\Connect4 - copia 2\Connect4\bin\Debug\Connect4.exe
+C:\Users\Asus\Desktop\Connect4 - copia 2\Connect4\bin\Debug\Connect4.pdb
+C:\Users\Asus\Desktop\Connect4 - copia 2\Connect4\obj\Debug\Connect4.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Connect4 - copia 2\Connect4\obj\Debug\Connect4.Game1v1.resources
+C:\Users\Asus\Desktop\Connect4 - copia 2\Connect4\obj\Debug\Connect4.Game1vIA.resources
+C:\Users\Asus\Desktop\Connect4 - copia 2\Connect4\obj\Debug\Connect4.HostYJoin.resources
+C:\Users\Asus\Desktop\Connect4 - copia 2\Connect4\obj\Debug\Connect4.Menu.resources
+C:\Users\Asus\Desktop\Connect4 - copia 2\Connect4\obj\Debug\Connect4.Properties.Resources.resources
+C:\Users\Asus\Desktop\Connect4 - copia 2\Connect4\obj\Debug\Connect4.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Connect4 - copia 2\Connect4\obj\Debug\Connect4.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Connect4 - copia 2\Connect4\obj\Debug\Connect4.exe
+C:\Users\Asus\Desktop\Connect4 - copia 2\Connect4\obj\Debug\Connect4.pdb
+C:\Users\Asus\Desktop\Connect4 - copia 2\Connect4\obj\Debug\Connect4.GameOnlineJugador1.resources
+C:\Users\Asus\Desktop\Connect4 - copia 2\Connect4\obj\Debug\Connect4.GameOnlineJugador2.resources
+C:\Users\Asus\Source\Repos\connect-4\Connect4\bin\Debug\Connect4.exe.config
+C:\Users\Asus\Source\Repos\connect-4\Connect4\bin\Debug\Connect4.exe
+C:\Users\Asus\Source\Repos\connect-4\Connect4\bin\Debug\Connect4.pdb
+C:\Users\Asus\Source\Repos\connect-4\Connect4\obj\Debug\Connect4.csprojAssemblyReference.cache
+C:\Users\Asus\Source\Repos\connect-4\Connect4\obj\Debug\Connect4.Game1v1.resources
+C:\Users\Asus\Source\Repos\connect-4\Connect4\obj\Debug\Connect4.Game1vIA.resources
+C:\Users\Asus\Source\Repos\connect-4\Connect4\obj\Debug\Connect4.GameOnlineJugador1.resources
+C:\Users\Asus\Source\Repos\connect-4\Connect4\obj\Debug\Connect4.GameOnlineJugador2.resources
+C:\Users\Asus\Source\Repos\connect-4\Connect4\obj\Debug\Connect4.HostYJoin.resources
+C:\Users\Asus\Source\Repos\connect-4\Connect4\obj\Debug\Connect4.Menu.resources
+C:\Users\Asus\Source\Repos\connect-4\Connect4\obj\Debug\Connect4.Properties.Resources.resources
+C:\Users\Asus\Source\Repos\connect-4\Connect4\obj\Debug\Connect4.csproj.GenerateResource.cache
+C:\Users\Asus\Source\Repos\connect-4\Connect4\obj\Debug\Connect4.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Source\Repos\connect-4\Connect4\obj\Debug\Connect4.exe
+C:\Users\Asus\Source\Repos\connect-4\Connect4\obj\Debug\Connect4.pdb
